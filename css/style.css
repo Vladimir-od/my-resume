@@ -1,5 +1,5 @@
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   background-color: #f5f7fa;
 }
 /* Main container */
@@ -222,6 +222,9 @@ img {
   line-height: 24px;
   color: #fff;
 }
-.fa{
+.fa {
   font-size: large;
+}
+a {
+  color: #fb6d3a;
 }
